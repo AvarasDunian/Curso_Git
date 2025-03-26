@@ -20,6 +20,7 @@ git checkout usado para recuperar o arquivo do diretorio cancelando modificaçõ
         git checkout -b "nome da branch"; cria e muda para nova branch com um unico comando
 
 git branch usado para ver as branches do projeto ou criar uma nova branch
+-d ou --delete exclui o branch 
 
 git stash usado para criar um ponto de retorno e limpar as modificações efetuadas após a ultimo commit
 git stash list usado para listar as stashs criadas
@@ -36,4 +37,3 @@ git push origin --tags envia todas as tags para o repositorio
 git show <tag> exibe as inforamações sobre a tag\versao
 git checkout <tag> também pode mudar para a tag
 
--d ou --delete exclui o branch 
