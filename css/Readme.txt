@@ -37,3 +37,5 @@ git push origin --tags envia todas as tags para o repositorio
 git show <tag> exibe as inforamações sobre a tag\versao
 git checkout <tag> também pode mudar para a tag
 
+git remote add origin "link" utilizado para adicionar um repositorio 
+git remote rm origin utilizado para removar o repositorio
