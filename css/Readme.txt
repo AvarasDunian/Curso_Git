@@ -31,5 +31,7 @@ git stash clear usado para remover todas as stashs
 git tag -a "" -m "" usado para criar um ponto de retorno sem apagar o codigo, criando fases de desenvolvimento
 git tag lista as tags criadas
 
+git show <nome> exibe as inforamações sobre a tag\versao
+git checkout <nome> também pode mudar para a tag
 
 -d ou --delete exclui o branch 
