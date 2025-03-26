@@ -25,5 +25,7 @@ git stash usado para criar um ponto de retorno e limpar as modificações efetua
 git stash list usado para listar as stashs criadas
 git stash apply usado para recuperar uma das stashs
 git stash show -p 0 usado para ver o que foi alterado na stash passada
+git stash drop 1 usado para removar uma stash da lista
+git stash clear usado para remover todas as stashs
 
 -d ou --delete exclui o branch 
