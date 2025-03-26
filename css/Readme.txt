@@ -28,4 +28,8 @@ git stash show -p 0 usado para ver o que foi alterado na stash passada
 git stash drop 1 usado para removar uma stash da lista
 git stash clear usado para remover todas as stashs
 
+git tag -a "" -m "" usado para criar um ponto de retorno sem apagar o codigo, criando fases de desenvolvimento
+git tag lista as tags criadas
+
+
 -d ou --delete exclui o branch 
