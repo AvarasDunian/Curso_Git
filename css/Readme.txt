@@ -25,5 +25,15 @@ git stash usado para criar um ponto de retorno e limpar as modificações efetua
 git stash list usado para listar as stashs criadas
 git stash apply usado para recuperar uma das stashs
 git stash show -p 0 usado para ver o que foi alterado na stash passada
+git stash drop 1 usado para removar uma stash da lista
+git stash clear usado para remover todas as stashs
+
+git tag -a "tag" -m "msg" usado para criar um ponto de retorno sem apagar o codigo, criando fases de desenvolvimento
+git tag lista as tags criadas
+git push origin <tag> enviar a tag especifica para o repositorio
+git push origin --tags envia todas as tags para o repositorio
+
+git show <tag> exibe as inforamações sobre a tag\versao
+git checkout <tag> também pode mudar para a tag
 
 -d ou --delete exclui o branch 
