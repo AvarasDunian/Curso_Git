@@ -21,4 +21,9 @@ git checkout usado para recuperar o arquivo do diretorio cancelando modificaçõ
 
 git branch usado para ver as branches do projeto ou criar uma nova branch
 
+git stash usado para criar um ponto de retorno e limpar as modificações efetuadas após a ultimo commit
+git stash list usado para listar as stashs criadas
+git stash apply usado para recuperar uma das stashs
+git stash show -p 0 usado para ver o que foi alterado na stash passada
+
 -d ou --delete exclui o branch 
