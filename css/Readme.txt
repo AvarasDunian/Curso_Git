@@ -34,8 +34,10 @@ git tag lista as tags criadas
 git push origin <tag> enviar a tag especifica para o repositorio
 git push origin --tags envia todas as tags para o repositorio
 
-git show <tag> exibe as inforamações sobre a tag\versao
+git show <tag> exibe as inforamações sobre a tag\versao ou ultimas atualizações\commit
 git checkout <tag> também pode mudar para a tag
+git diff <branch\arquivo> <branch\arquivo> usado para verificar as diferenças entre o branch atual e o repositorio remoto
+git shortlog da um log resumido do projeto
 
 git remote add origin "link" utilizado para adicionar um repositorio 
 git remote rm origin utilizado para removar o repositorio
