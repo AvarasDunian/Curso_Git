@@ -37,7 +37,16 @@ git push origin --tags envia todas as tags para o repositorio
 git show <tag> exibe as inforamações sobre a tag\versao ou ultimas atualizações\commit
 git checkout <tag> também pode mudar para a tag
 git diff <branch\arquivo> <branch\arquivo> usado para verificar as diferenças entre o branch atual e o repositorio remoto
+git clean vai limpar arquivos não trackeados pelo git
+git gc (garbage collector) é usado para que o git identifique arquvios que não são mais necessarios e excluia-os. Melhora performance.
+git fsck (File System Check) verifica a integridade dos arquivos
+
+git archive --format zip --output master_files.zip master 
+    cria um arquivo comprimido do repositorio
+
 git shortlog da um log resumido do projeto
+git log da um log mostrando os commits de uma branch
+git reflog vai mapear tudo que foi efetuado o repositorio.
 
 git remote add origin "link" utilizado para adicionar um repositorio 
 git remote rm origin utilizado para removar o repositorio
