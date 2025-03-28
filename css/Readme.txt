@@ -54,3 +54,8 @@ git remote rm origin utilizado para removar o repositorio
 git submodule add <origin> usado para adicionar submodulos (dois ou mais projetos no mesmo repositorio)
 git submodule usado para verificar os submodulos 
 git push --recurse-submodules=on-demand usado para dar push em submodulos
+
+private branch
+    git rebase <atual> <funcionalidade\private branch> -i usado para fazer 
+    squash exclui branchs
+    reword renomeia branchs
