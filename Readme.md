@@ -18,6 +18,12 @@ __Melhoria 1__, _melhoria 2_
 * PHP
 * MySQL
 
+### Funcionalidades a desenvolver:
+
+1. Área de membros
+2. Integração com outros pagamentos
+3. Sistema de bônus primeira compra
+
 Aulas de Markdown: 
 
 Para negrito deixe a palavra ou frase entre dois asteriscos ou underlines "**" "__"
