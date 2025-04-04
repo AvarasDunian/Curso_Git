@@ -43,7 +43,7 @@ __Melhoria 1__, _melhoria 2_
 
 Contribuidor principal: https://github.com/AvarasDunian
 
-
+[![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png)](https://www.php.net) 
 
 Aulas de Markdown: 
 
