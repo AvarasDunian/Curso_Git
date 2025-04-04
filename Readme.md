@@ -37,14 +37,10 @@ function soma(a, b) {
 
 ## Lista de tarefas a fazer:
 
-- [ x ] Área de membros
+- [x] Área de membros
 - [ ] Integração com outros pagamentos
 - [ ] Sistema de Bônus
-- [ x ] CSS do rodapé 
-
-
-
-
+- [x] CSS do rodapé 
 
 
 #### Imagem Local
@@ -72,6 +68,8 @@ Para italiano deixe a palavra ou frase entre um asterisco ou underline "*" "_"
 
 Para uma lista não ordenada coloque um asterico a frente de cada item "* "
 Para uma lista ordenada, coloque o numeral referente a sua ordem em frente de cada item "1 " "2 " ...
+
+Para uma lista de tarefas use a sintaxe: -[] tarefa para tarefas não concluidas e adiciona X entre os colchetes
 
 Para adicionar partes de códigos, insira entre acentos graves (crases) "```" (markdown especial do github)
 
