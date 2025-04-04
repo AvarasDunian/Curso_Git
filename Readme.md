@@ -31,9 +31,20 @@ __Melhoria 1__, _melhoria 2_
 
 ```javascript
 function soma(a, b) {
-    return a+b;
+    return a + b;
 }
 ```
+
+## Lista de tarefas a fazer:
+
+- [ x ] Área de membros
+- [ ] Integração com outros pagamentos
+- [ ] Sistema de Bônus
+- [ x ] CSS do rodapé 
+
+
+
+
 
 
 #### Imagem Local
@@ -62,7 +73,7 @@ Para italiano deixe a palavra ou frase entre um asterisco ou underline "*" "_"
 Para uma lista não ordenada coloque um asterico a frente de cada item "* "
 Para uma lista ordenada, coloque o numeral referente a sua ordem em frente de cada item "1 " "2 " ...
 
-Para adicionar partes de códigos, insira entre backtips (crases) "```" (funciona apenas no github)
+Para adicionar partes de códigos, insira entre acentos graves (crases) "```" (markdown especial do github)
 
 Para adicionar imagens use a sintaxe: ![text alt](url da imagem)
 
