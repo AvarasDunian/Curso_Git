@@ -57,3 +57,5 @@ Para uma lista ordenada, coloque o numeral referente a sua ordem em frente de ca
 Para adicionar imagens use a sintaxe: ![text alt](url da imagem)
 
 Para adicionar links: [texto do link](url)
+
+Para incluis link através de uma imagem: [![texto alt](url da imagem)](link)
