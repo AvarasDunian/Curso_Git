@@ -35,6 +35,14 @@ __Melhoria 1__, _melhoria 2_
 
 ![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png)
 
+## Links interessantes:
+
+[Google](https://www.google.com.br)
+
+[https://www.horadecodar.com.br]
+
+
+
 
 
 Aulas de Markdown: 
@@ -45,3 +53,7 @@ Para italiano deixe a palavra ou frase entre um asterisco ou underline "*" "_"
 
 Para uma lista não ordenada coloque um asterico a frente de cada item "* "
 Para uma lista ordenada, coloque o numeral referente a sua ordem em frente de cada item "1 " "2 " ...
+
+Para adicionar imagens use a sintaxe: ![text alt](url da imagem)
+
+Para adicionar links: [texto do link](url)
