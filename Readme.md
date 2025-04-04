@@ -28,8 +28,15 @@ __Melhoria 1__, _melhoria 2_
 3. Sistema de bônus primeira compra
 
 
-####  Imagem Local
+#### Imagem Local
 ![Logo do Python](img/Python-logo-notext.svg.png)
+
+#### Imagem externa
+
+![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png)
+
+
+
 Aulas de Markdown: 
 
 Para negrito deixe a palavra ou frase entre dois asteriscos ou underlines "**" "__"
