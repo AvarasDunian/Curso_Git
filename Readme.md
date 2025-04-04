@@ -27,6 +27,14 @@ __Melhoria 1__, _melhoria 2_
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
 
+## Código da função soma
+
+```javascript
+function soma(a, b) {
+    return a+b;
+}
+```
+
 
 #### Imagem Local
 ![Logo do Python](img/Python-logo-notext.svg.png)
@@ -53,6 +61,8 @@ Para italiano deixe a palavra ou frase entre um asterisco ou underline "*" "_"
 
 Para uma lista não ordenada coloque um asterico a frente de cada item "* "
 Para uma lista ordenada, coloque o numeral referente a sua ordem em frente de cada item "1 " "2 " ...
+
+Para adicionar partes de códigos, insira entre backtips (crases) "```" (funciona apenas no github)
 
 Para adicionar imagens use a sintaxe: ![text alt](url da imagem)
 
